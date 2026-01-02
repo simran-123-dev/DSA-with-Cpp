@@ -19,3 +19,7 @@ This repository contains my daily Data Structures and Algorithms practice in C++
 
 ## Progress
 - Problems solved: 50+
+
+
+## 02-01-2026
+today i get to know that studying patterns is more imp 
